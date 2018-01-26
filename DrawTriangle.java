@@ -1,4 +1,3 @@
-package q2;
 
 import javafx.application.Application;
 import javafx.geometry.Point2D;
